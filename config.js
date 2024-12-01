@@ -20,7 +20,7 @@ for (let i = 0; i < ownerlist.length; i++) {
 }
 //
 global.botname = process.env.BOTNAME || 'VORTEX-MD';
-global.pairingNumber = process.env.BOT_NUMBER || 'your number';  // put your number here
+global.pairingNumber = process.env.BOT_NUMBER || '2348060808371';  // put your number here
 global.SESSION_ID = process.env.SESSION_ID || 'wrUjgK6C#afRxJTAfUSu_WM9gMlJ0UYKK5TCtZYRss0Y70dINh1g';  // put your session id here
 
 global.mods = []
